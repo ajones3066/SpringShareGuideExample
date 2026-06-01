@@ -1,0 +1,475 @@
+{
+  "id": 274398,
+  "object_type": "guide",
+  "api_version": "agent-friendly-v1",
+  "site": {
+    "id": 2004,
+    "name": "The New School Libraries"
+  },
+  "title": "Fashion Studies",
+  "slug": "MAFashion",
+  "type": {
+    "id": 4,
+    "label": "General Purpose Guide"
+  },
+  "status": {
+    "code": 0,
+    "label": "Unpublished",
+    "is_public": false,
+    "is_indexable": false
+  },
+  "description": "How to do research in the Social Sciences and Cultural Studies",
+  "machine_summary": "This guide supports research in fashion studies, fashion history, cultural studies, visual culture, textiles, design, and related social science approaches. It provides recommended databases, research strategies, librarian support, citation help, and selected resources for students and faculty working on fashion-related research.",
+  "intended_audiences": [
+    "undergraduate students",
+    "graduate students",
+    "faculty",
+    "researchers"
+  ],
+  "intended_queries": [
+    "How do I start research in fashion studies?",
+    "What databases should I use for fashion history?",
+    "Where can I find scholarly articles about fashion?",
+    "Where can I find images, magazines, or primary sources about fashion?",
+    "Who is the librarian for fashion studies?",
+    "How do I cite sources for fashion studies research?"
+  ],
+  "not_for": [
+    "retail shopping advice",
+    "garment construction tutorials",
+    "fashion design portfolio review",
+    "general career counseling"
+  ],
+  "urls": {
+    "canonical": "https://guides.library.newschool.edu/c.php?g=274398",
+    "friendly": "https://guides.library.newschool.edu/MAFashion",
+    "thumbnail": ""
+  },
+  "dates": {
+    "created": "2010-08-23T21:41:27",
+    "published": "2015-08-20T14:41:21",
+    "updated": "2025-10-21T16:25:07",
+    "last_content_reviewed": "2025-10-21T16:25:07",
+    "next_review_due": "2026-10-21"
+  },
+  "review": {
+    "review_status": "current",
+    "review_notes": "Guide content should be reviewed annually for broken links, database changes, changed librarian assignments, and relevance of recommended resources.",
+    "staleness_risk": "medium"
+  },
+  "ownership": {
+    "owner_id": 51349,
+    "group_id": 0,
+    "primary_librarian": {
+      "id": 51349,
+      "name": "Assigned Subject Librarian",
+      "role": "Fashion Studies Librarian",
+      "email": "jonesa@newschool.edu",
+      "profile_url": "https://guides.library.newschool.edu/prf.php?id=591efe13-7cdb-11ed-9922-0ad758b798c3",
+      "appointment_url": "https://calendars.library.newschool.edu/appointments/allenjones"
+    },
+    "supporting_units": [
+      {
+        "id": "research-and-instruction",
+        "name": "Research and Instruction"
+      }
+    ]
+  },
+  "subjects": [
+    {
+      "id": "fashion-studies",
+      "preferred_label": "Fashion Studies",
+      "alternate_labels": [
+        "Fashion",
+        "Fashion History",
+        "Fashion Design Research"
+      ],
+      "broader": [
+        {
+          "id": "design",
+          "preferred_label": "Design"
+        },
+        {
+          "id": "cultural-studies",
+          "preferred_label": "Cultural Studies"
+        },
+        {
+          "id": "social-sciences",
+          "preferred_label": "Social Sciences"
+        }
+      ],
+      "related": [
+        {
+          "id": "visual-culture",
+          "preferred_label": "Visual Culture"
+        },
+        {
+          "id": "textiles",
+          "preferred_label": "Textiles"
+        },
+        {
+          "id": "material-culture",
+          "preferred_label": "Material Culture"
+        },
+        {
+          "id": "gender-studies",
+          "preferred_label": "Gender Studies"
+        },
+        {
+          "id": "business-of-fashion",
+          "preferred_label": "Business of Fashion"
+        }
+      ],
+      "external_mappings": [
+        {
+          "scheme": "local",
+          "value": "Fashion Studies"
+        },
+        {
+          "scheme": "lcsh",
+          "value": "Fashion"
+        },
+        {
+          "scheme": "lcsh",
+          "value": "Clothing and dress"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "fashion",
+    "fashion history",
+    "fashion studies",
+    "design",
+    "visual culture",
+    "textiles",
+    "cultural studies"
+  ],
+  "pages": [
+    {
+      "id": "page-001",
+      "title": "Home",
+      "description": "Starting point for fashion studies research.",
+      "url": "https://guides.library.newschool.edu/MAFashion",
+      "display_order": 1,
+      "subjects": [
+        "fashion-studies"
+      ],
+      "boxes": [
+        {
+          "id": "box-001",
+          "title": "Start Your Research",
+          "box_type": "text",
+          "display_order": 1,
+          "plain_text": "Use this guide to identify recommended databases, journals, image collections, primary sources, and research support for fashion studies.",
+          "machine_summary": "Introductory orientation for students beginning fashion studies research.",
+          "items": []
+        },
+        {
+          "id": "box-002",
+          "title": "Recommended Databases",
+          "box_type": "resource_list",
+          "display_order": 2,
+          "machine_summary": "Core databases and digital collections recommended for fashion studies research.",
+          "items": [
+            {
+              "resource_id": "db-vogue-archive",
+              "resource_type": "database",
+              "title": "Vogue Archive",
+              "description": "A searchable archive of Vogue magazine, useful for fashion history, visual culture, advertising, photography, design history, and primary source research.",
+              "full_description": "The Vogue Archive provides access to historical issues of Vogue and supports research into fashion trends, editorial photography, advertising, consumer culture, visual representation, and the history of dress. It is especially useful for primary source research in fashion studies and visual culture.",
+              "url": "https://www.proquest.com/vogue/browseissues?accountid=12261",
+              "proxy_url": "https://login.libproxy.newschool.edu/login?url=https://www.proquest.com/vogue/browseissues?accountid=12261",
+              "vendor": "ProQuest",
+              "resource_scope": "primary_sources",
+              "recommendation_level": "core",
+              "audience_level": "introductory-to-advanced",
+              "instructional_use": [
+                "start_here",
+                "primary_source_research",
+                "image_research"
+              ],
+              "subjects": [
+                "fashion-studies",
+                "fashion-history",
+                "visual-culture"
+              ],
+              "tags": [
+                "magazines",
+                "fashion history",
+                "images",
+                "advertising",
+                "primary sources"
+              ],
+              "access": {
+                "requires_authentication": true,
+                "authentication_method": "institutional_sso",
+                "proxy_required": true,
+                "availability_scope": "current_students_faculty_staff",
+                "publicly_accessible": false
+              },
+              "guide_context": {
+                "guide_id": 274398,
+                "page_id": "page-001",
+                "box_id": "box-002",
+                "box_title": "Recommended Databases",
+                "display_order": 1
+              },
+              "dates": {
+                "added": null,
+                "updated": "2025-10-21T16:25:07",
+                "last_checked": "2025-10-21T16:25:07"
+              }
+            },
+            {
+              "resource_id": "db-art-design-architecture",
+              "resource_type": "database",
+              "title": "Art, Design & Architecture Collection",
+              "description": "A multidisciplinary research database for art, design, architecture, fashion, visual culture, and related fields.",
+              "full_description": "This database is recommended for finding scholarly articles, trade publications, reviews, and other secondary sources related to fashion, design, art history, architecture, and visual culture.",
+              "url": "https://example.edu/art-design-architecture",
+              "proxy_url": "https://login.libproxy.newschool.edu?url=https://www.proquest.com/artarchitecture?accountid=12261",
+              "vendor": "Proquest",
+              "resource_scope": "scholarly_articles",
+              "recommendation_level": "recommended",
+              "audience_level": "introductory-to-advanced",
+              "instructional_use": [
+                "find_articles",
+                "literature_review",
+                "background_research"
+              ],
+              "subjects": [
+                "fashion-studies",
+                "design",
+                "visual-culture"
+              ],
+              "tags": [
+                "articles",
+                "scholarly sources",
+                "design",
+                "fashion"
+              ],
+              "access": {
+                "requires_authentication": true,
+                "authentication_method": "institutional_sso",
+                "proxy_required": true,
+                "availability_scope": "current_students_faculty_staff",
+                "publicly_accessible": false
+              },
+              "guide_context": {
+                "guide_id": 274398,
+                "page_id": "page-001",
+                "box_id": "box-002",
+                "box_title": "Recommended Databases",
+                "display_order": 2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "page-002",
+      "title": "Finding Articles",
+      "description": "Recommended tools and strategies for finding articles in fashion studies.",
+      "url": "https://guides.library.newschool.edu/MAFashion/articles",
+      "display_order": 2,
+      "subjects": [
+        "fashion-studies"
+      ],
+      "boxes": [
+        {
+          "id": "box-003",
+          "title": "Article Search Strategy",
+          "box_type": "instruction",
+          "display_order": 1,
+          "plain_text": "Use subject terms such as fashion, clothing and dress, textiles, visual culture, material culture, consumer culture, gender, labor, and design history. Combine these terms with period, geography, designer, brand, material, or social issue.",
+          "machine_summary": "Search strategy guidance for fashion studies article research.",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "page-003",
+      "title": "Images and Primary Sources",
+      "description": "Resources for finding images, magazines, archives, advertisements, and other primary sources.",
+      "url": "https://guides.library.newschool.edu/MAFashion/images-primary-sources",
+      "display_order": 3,
+      "subjects": [
+        "fashion-studies",
+        "visual-culture"
+      ],
+      "boxes": [
+        {
+          "id": "box-004",
+          "title": "Image and Magazine Archives",
+          "box_type": "resource_list",
+          "display_order": 1,
+          "machine_summary": "Primary source and image collections for fashion studies.",
+          "items": [
+            {
+              "resource_id": "db-vogue-archive",
+              "resource_type": "database",
+              "title": "Vogue Archive",
+              "description": "Search historical Vogue issues for fashion photography, advertising, editorial coverage, designers, brands, and visual trends.",
+              "reuse_of_resource_id": "db-vogue-archive",
+              "guide_context": {
+                "guide_id": 274398,
+                "page_id": "page-003",
+                "box_id": "box-004",
+                "box_title": "Image and Magazine Archives",
+                "display_order": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources_flat": [
+    {
+      "resource_id": "db-vogue-archive",
+      "title": "Vogue Archive",
+      "resource_type": "database",
+      "description": "A searchable archive of Vogue magazine, useful for fashion history, visual culture, advertising, photography, design history, and primary source research.",
+      "recommendation_level": "core",
+      "subjects": [
+        "fashion-studies",
+        "fashion-history",
+        "visual-culture"
+      ],
+      "appears_in": [
+        {
+          "page_id": "page-001",
+          "box_id": "box-002",
+          "context_label": "Recommended Databases"
+        },
+        {
+          "page_id": "page-003",
+          "box_id": "box-004",
+          "context_label": "Image and Magazine Archives"
+        }
+      ]
+    },
+    {
+      "resource_id": "db-art-design-architecture",
+      "title": "Art, Design & Architecture Collection",
+      "resource_type": "database",
+      "description": "A multidisciplinary research database for art, design, architecture, fashion, visual culture, and related fields.",
+      "recommendation_level": "recommended",
+      "subjects": [
+        "fashion-studies",
+        "design",
+        "visual-culture"
+      ],
+      "appears_in": [
+        {
+          "page_id": "page-001",
+          "box_id": "box-002",
+          "context_label": "Recommended Databases"
+        }
+      ]
+    }
+  ],
+  "related_services": {
+    "appointments": [
+      {
+        "service_id": "research-appointment-fashion",
+        "label": "Book a research appointment for Fashion Studies",
+        "url": null,
+        "subjects": [
+          "fashion-studies"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "event_id": null,
+        "label": "Upcoming fashion studies research workshops",
+        "url": null,
+        "subjects": [
+          "fashion-studies",
+          "design",
+          "visual-culture"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "faq_id": null,
+        "label": "How do I find scholarly articles?",
+        "url": null,
+        "subjects": [
+          "research-help",
+          "fashion-studies"
+        ]
+      }
+    ]
+  },
+  "agent_actions": [
+    {
+      "action_id": "recommend_starting_resources",
+      "label": "Recommend starting resources",
+      "description": "Return the highest-priority databases and research strategies for a user beginning fashion studies research.",
+      "inputs": [
+        "research_topic",
+        "audience_level",
+        "resource_type_preference"
+      ],
+      "outputs": [
+        "recommended_resources",
+        "search_terms",
+        "next_steps"
+      ]
+    },
+    {
+      "action_id": "connect_to_librarian",
+      "label": "Connect user to subject librarian",
+      "description": "Use the guide's subject assignment and librarian relationship to route the user to the appropriate librarian or appointment service.",
+      "inputs": [
+        "subject_id",
+        "user_affiliation"
+      ],
+      "outputs": [
+        "librarian_profile",
+        "appointment_url",
+        "contact_options"
+      ]
+    },
+    {
+      "action_id": "answer_access_question",
+      "label": "Explain access requirements",
+      "description": "Use resource access metadata to tell the user whether authentication, proxy, SSO, or institutional affiliation is required.",
+      "inputs": [
+        "resource_id",
+        "user_affiliation"
+      ],
+      "outputs": [
+        "access_instructions",
+        "authentication_required",
+        "troubleshooting_contact"
+      ]
+    }
+  ],
+  "indexing": {
+    "include_in_search_index": false,
+    "include_in_agent_index": false,
+    "reason_excluded": "Guide status is Unpublished.",
+    "embedding_text": "Fashion Studies. How to do research in the Social Sciences and Cultural Studies. Topics include fashion studies, fashion history, visual culture, textiles, cultural studies, design research, primary sources, article databases, image archives, magazines, citation help, and librarian support.",
+    "chunking_strategy": {
+      "preferred_chunk_unit": "box",
+      "preserve_page_context": true,
+      "preserve_resource_context": true,
+      "include_subject_labels": true,
+      "include_access_metadata": true
+    }
+  },
+  "change_tracking": {
+    "object_id": 274398,
+    "object_type": "guide",
+    "last_changed": "2025-10-21T16:25:07",
+    "change_type": "updated",
+    "deleted": false,
+    "unpublished": true
+  }
+}
