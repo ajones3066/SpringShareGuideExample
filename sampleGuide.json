@@ -173,7 +173,7 @@
           "machine_summary": "Core databases and digital collections recommended for fashion studies research.",
           "items": [
             {
-              "resource_id": "db-vogue-archive",
+              "resource_id": "10898733",
               "resource_type": "database",
               "title": "Vogue Archive",
               "description": "A searchable archive of Vogue magazine, useful for fashion history, visual culture, advertising, photography, design history, and primary source research.",
@@ -222,12 +222,12 @@
               }
             },
             {
-              "resource_id": "db-art-design-architecture",
+              "resource_id": "10898679",
               "resource_type": "database",
               "title": "Art, Design & Architecture Collection",
               "description": "A multidisciplinary research database for art, design, architecture, fashion, visual culture, and related fields.",
               "full_description": "This database is recommended for finding scholarly articles, trade publications, reviews, and other secondary sources related to fashion, design, art history, architecture, and visual culture.",
-              "url": "https://example.edu/art-design-architecture",
+              "url": "https://www.proquest.com/artarchitecture?accountid=12261,
               "proxy_url": "https://login.libproxy.newschool.edu?url=https://www.proquest.com/artarchitecture?accountid=12261",
               "vendor": "Proquest",
               "resource_scope": "scholarly_articles",
